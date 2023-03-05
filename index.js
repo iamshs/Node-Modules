@@ -5,4 +5,8 @@
 //     1000
 // )
 
-console.log(global);
+// console.log(global);
+
+// const people = require("./people")
+
+// console.log(people);
